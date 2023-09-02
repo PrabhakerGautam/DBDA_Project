@@ -3,5 +3,5 @@ pandas
 pytesseract
 matplotlib
 streamlit
-opencv-pyhton
+opencv-python
 pyaml
